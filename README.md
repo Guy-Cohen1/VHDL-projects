@@ -1,6 +1,6 @@
 # CPU and Hardware Accelerators
 
-This repository contains modules for CPUs and hardware accelerators, designed and synthesized using VHDL as part of a laboratory course on Intel's Cyclone V FPGA (DE10-Standard Board). Each lab focuses on distinct aspects of digital design, progressing from fundamental concepts to advanced implementations like multi-cycle and pipelined CPUs.
+This repository contains modules for CPUs and hardware accelerators, designed and synthesized using VHDL as part of a laboratory course on Intel's Cyclone V FPGA (DE10-Standard Board). Each lab focuses on distinct aspects of digital design, progressing from fundamental concepts to advanced implementations like multi-cycle CPU.
 
 ---
 

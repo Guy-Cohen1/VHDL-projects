@@ -55,7 +55,6 @@ This repository contains modules for CPUs and hardware accelerators, designed an
   - **Core Features**: Memory, GPIO, timers, binary division accelerator, and interrupt controller.
   - **I/O Devices**: Pushbuttons, switches, LEDs, and 7-segment displays.
   - **Tools**: MARS simulator for assembly code testing and VHDL memory integration.
-  - **Bonus**: Optional USART interface for serial communication.
 
 ---
 

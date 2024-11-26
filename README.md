@@ -49,11 +49,6 @@ This repository contains modules for CPUs and hardware accelerators, designed an
 
 ---
 
-### **Lab 5: Pipelined MIPS Architecture (Work In Progress)**  
-A pipelined MIPS CPU architecture will be designed and implemented to enhance throughput and efficiency.
-
----
-
 ## Final Project: Single-Cycle MIPS CPU  
 - **Goal**: Create a fully functional single-cycle MIPS processor with memory-mapped I/O and optional peripherals like a USART interface.  
 - **Specifications**:

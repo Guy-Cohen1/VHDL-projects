@@ -106,7 +106,6 @@ A **JTAG-based code wrapper** will be provided for communication with L1 instruc
 
 ## **9. CPU and MCU Test**  
 - **Mandatory Tests:** Execute given `.asm` assembly programs.  
-- **Bonus Tests:** Implement a menu for RS-232 communication, including tasks like counting on LEDs and sending messages to a PC terminal.  
 
 ---
 
